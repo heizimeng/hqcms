@@ -12,7 +12,6 @@ use think\View;
 use app\common\controller\adminBase;
 class Index extends adminBase {
 
-
   public function index()
   {
     $view = new View();
